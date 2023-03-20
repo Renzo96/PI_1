@@ -1,0 +1,4 @@
+PIP
+fastapi
+pandas
+gradio
